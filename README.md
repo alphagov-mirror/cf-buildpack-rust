@@ -1,6 +1,6 @@
 # Cloudfoundry buildpack for Rust
 
-> This is a fork of https://github.com/emk/heroku-buildpack-rust, tweaked to work on cloudformation (or at least, our cloudfoundry deployment). 
+> This is a fork of https://github.com/emk/heroku-buildpack-rust, tweaked to work on cloudfoundry (or at least, our cloudfoundry deployment). 
 
 This is a Heroku buildpack for Rust with support for [cargo][] and [rustup][].  Features include:
 
